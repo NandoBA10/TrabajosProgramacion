@@ -1,0 +1,20 @@
+# Compilados y binarios (Java, C, etc.)
+*.class
+*.jar
+*.war
+bin/
+out/
+target/
+build/
+
+# Configuración de editores e IDEs
+.vscode/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
