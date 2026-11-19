@@ -3,7 +3,7 @@ import java.util.Locale;
 /**
  * ejercicios
  */
-public class ejercicio9 {
+public class Ejercicio9 {
 
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
